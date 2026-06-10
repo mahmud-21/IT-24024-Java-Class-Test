@@ -1,0 +1,1 @@
+# IT-24024-Java-Class-Test
